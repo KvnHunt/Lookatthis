@@ -81,11 +81,7 @@ To run unit testing, open the terminal, and use the command npm run test.
 
 As of now there is one test suite with three tests. The test suite is checking for a render() method to return a string for the corresponding SVG file with the given shape color.
 
-Screenshot7-week-10-challenge
 
-Screenshot8-week-10-challenge
-
-Screenshot9-week-10-challenge
 
 License
 NOTICE: This application is covered under the MIT License
