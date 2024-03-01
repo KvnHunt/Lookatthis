@@ -3,7 +3,7 @@ SVG
 SVG-Logo-Maker
 Week-10 Challenge
 
-License: MIT
+
 
 Table of Contents
 Description
@@ -85,11 +85,11 @@ To run unit testing, open the terminal, and use the command npm run test.
 
 
 
-License
-NOTICE: This application is covered under the MIT License
 
 Questions
 Have additional questions? Click the links below to reach me through my GitHub account or Email address.
+
+https://github.com/KvnHunt/
 
 
 
