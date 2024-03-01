@@ -3,7 +3,7 @@ SVG
 SVG-Logo-Maker
 Week-10 Challenge
 
-License: MIT
+
 
 Table of Contents
 Description
