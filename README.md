@@ -83,9 +83,8 @@ As of now there is one test suite with three tests. The test suite is checking f
 
 
 
-License
-NOTICE: This application is covered under the MIT License
-
 Questions
 Have additional questions? Click the links below to reach me through my GitHub account or Email address.
+
+https://github.com/KvnHunt/
 
